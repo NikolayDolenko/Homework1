@@ -1,0 +1,75 @@
+*{									/*обнуление стилей*/ 
+	padding: 0;
+	margin: 0;
+}						
+body {								/*параметры для всей страницы*/ 
+	background-color: #f4f4f4;
+	width: 1020px;
+	height: 1020px;
+}
+footer {							/*выравнивание по центру надписи и фото*/ 
+	text-align:  center;
+}
+h1{									/*Параметры загаловка1*/ 
+	margin: 50px auto 35px;
+	text-transform: uppercase;
+	font-family: arial;
+	font-size: 36px;
+	color: #1f1f1f
+	}
+img{								/*Параметры картинки*/ 
+	height: 200px;
+	width: 200px;
+	border: 1px solid #8f8f8f;
+}
+
+.подпись{							/*Параметры подписи под картинкой*/ 
+	margin: 20px 470px 20px 265px;
+	font-family: arial;
+	font-size: 14px;
+	color: #1f1f1f;
+	opacity: 0.8;
+}
+.line1{								/*Параметры линии 1*/ 
+	margin-top: 20px;
+	margin-left: 265px;
+	color: #1f1f1f; 
+    opacity: 0.22;
+    width: 500px;
+    size: 1px;
+}
+
+h2{									/*Параметры загаловка2*/ 
+	margin: 20px 470px 30px 265px;
+	font-family: Myriad Pro;
+	font-size: 18px;
+	color: #1f1f1f
+}
+
+ul{
+	margin: 20px 470px 30px 265px;
+	font-family: arial;
+	font-size: 14px;
+	color: #1f1f1f
+}
+.line2{								/*Параметры линии 2*/ 
+	margin-top: 20px;
+	margin-left: 265px;
+	color: #656466; 
+    opacity: 0.2;
+    width: 500px;
+    size: 1px;
+}
+p{
+	margin: 20px 470px 25px 265px;
+	font-family: Myriad Pro;
+	font-size: 14px;
+	color: #1f1f1f
+}
+.line3{								/*Параметры линии 3*/ 
+	margin-top: 20px;
+	margin-left: 265px;
+	color: #1f1f1f; 
+    opacity: 0.2;
+    width: 500px;
+    size: 1px;
